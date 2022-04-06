@@ -1,0 +1,55 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, a,
+input, form, div {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Avenir Next";
+}
+
+li {
+	list-style: none;
+}
+
+.header {
+	background-color: #6600FF;
+	height: 180px;
+}
+
+.header-logo {
+	padding: 20px 40px;
+	text-align: center;
+	color: #fff;
+	font-size: 40px;
+}
+
+.header-image {
+	margin-left: 630px;
+	width: 100px;
+	height: 80px;
+}
+
+.copy-container h1 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.copy-container h2 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.copy-container p {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.contents-item {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+
